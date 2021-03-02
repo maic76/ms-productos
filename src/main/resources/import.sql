@@ -1,0 +1,10 @@
+INSERT INTO productos (nombre,precio,created_at) VALUES ('Panasonic',800,NOW());
+INSERT INTO productos (nombre,precio,created_at) VALUES ('HP',100,NOW());
+INSERT INTO productos (nombre,precio,created_at) VALUES ('Sony',233,NOW());
+INSERT INTO productos (nombre,precio,created_at) VALUES ('Philips',500,NOW());
+INSERT INTO productos (nombre,precio,created_at) VALUES ('JVA',210,NOW());
+INSERT INTO productos (nombre,precio,created_at) VALUES ('ASUS',1800,NOW());
+INSERT INTO productos (nombre,precio,created_at) VALUES ('Hitachi',2800,NOW());
+INSERT INTO productos (nombre,precio,created_at) VALUES ('JVC',800,NOW());
+INSERT INTO productos (nombre,precio,created_at) VALUES ('Riolan',2800,NOW());
+INSERT INTO productos (nombre,precio,created_at) VALUES ('Epson',12800,NOW());
